@@ -1,0 +1,104 @@
+{
+	"1": {
+		"title": "No Poverty",
+		"description": "Digging into the roots of poverty to shape a more equitable tomorrow.",
+		"image": "/sdg-icons/sdg-1.svg",
+		"color": "bg-[#E6223B]"
+	},
+	"2": {
+		"title": "Zero Hunger",
+		"description": "Feeding insights into hunger, food systems, and nutrition—locally and globally.",
+		"image": "/sdg-icons/sdg-2.svg",
+		"color": "bg-[#DBA63B]"
+	},
+	"3": {
+		"title": "Good Health and Well-being",
+		"description": "Charting the path to healthier lives through data on care, disease, and well-being.",
+		"image": "/sdg-icons/sdg-3.svg",
+		"color": "bg-[#4C9F38]"
+	},
+	"4": {
+		"title": "Quality Education",
+		"description": "Revealing the state of learning across the nation—one region at a time.",
+		"image": "/sdg-icons/sdg-4.svg",
+		"color": "bg-[#E74659]"
+	},
+	"5": {
+		"title": "Gender Equality",
+		"description": "Achieve gender equality and empower all women and girls.",
+		"image": "/sdg-icons/sdg-5.svg",
+		"color": "bg-[#FF6952]"
+	},
+	"6": {
+		"title": "Clean Water and Sanitation",
+		"description": "Tracing the link between clean water, sanitation, and public health resilience.",
+		"image": "/sdg-icons/sdg-6.svg",
+		"color": "bg-[#26BDE3]"
+	},
+	"7": {
+		"title": "Affordable and Clean Energy",
+		"description": "Fueling conversations on cleaner, cheaper, and smarter energy solutions.",
+		"image": "/sdg-icons/sdg-7.svg",
+		"color": "bg-[#FCC309]"
+	},
+	"8": {
+		"title": "Decent Work and Economic Growth",
+		"description": "Following the flow of pesos, productivity, and prosperity.",
+		"image": "/sdg-icons/sdg-8.svg",
+		"color": "bg-[#DF3A68]"
+	},
+	"9": {
+		"title": "Industry, Innovation, and Infrastructure",
+		"description": "Visualizing the building blocks of national development—from funding to function.",
+		"image": "/sdg-icons/sdg-9.svg",
+		"color": "bg-[#FD6824]"
+	},
+	"10": {
+		"title": "Reduced Inequality",
+		"description": "Spotlighting the invisible lines that divide—and how to bridge them.",
+		"image": "/sdg-icons/sdg-10.svg",
+		"color": "bg-[#F95AB6]"
+	},
+	"11": {
+		"title": "Sustainable Cities and Communities",
+		"description": "Zooming into city life to expose the heat, the smog, and the sprawl.",
+		"image": "/sdg-icons/sdg-11.svg",
+		"color": "bg-[#FE9E23]"
+	},
+	"12": {
+		"title": "Responsible Consumption and Production",
+		"description": "Ensure sustainable consumption and production patterns.",
+		"image": "/sdg-icons/sdg-12.svg",
+		"color": "bg-[#D3A350]"
+	},
+	"13": {
+		"title": "Climate Action",
+		"description": "Tracking emissions and transformations in our fight against climate change.",
+		"image": "/sdg-icons/sdg-13.svg",
+		"color": "bg-[#57A85E]"
+	},
+	"14": {
+		"title": "Life Below Water",
+		"description": "Casting a wide net over marine life, fishery trends, and ocean health.",
+		"image": "/sdg-icons/sdg-14.svg",
+		"color": "bg-[#0A97D9]"
+	},
+	"15": {
+		"title": "Life on Land",
+		"description": "Following wildlife and climate clues to protect ecosystems on land.",
+		"image": "/sdg-icons/sdg-15.svg",
+		"color": "bg-[#56C02A]"
+	},
+	"16": {
+		"title": "Peace, Justice, and Strong Institutions",
+		"description": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels.",
+		"image": "/sdg-icons/sdg-16.svg",
+		"color": "bg-[#99DDFF]"
+	},
+	"17": {
+		"title": "Partnerships for the Goals",
+		"description": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development.",
+		"image": "/sdg-icons/sdg-17.svg",
+		"color": "bg-[#8FC1E5]"
+	}
+}

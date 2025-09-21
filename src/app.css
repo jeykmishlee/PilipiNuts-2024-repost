@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+@plugin "daisyui";
+@plugin "@iconify/tailwind4";
+
+@theme {
+    --font-robotomono: "Roboto Mono", sans-serif; 
+    --font-dmsans: "DM Sans", sans-serif; 
+    --font-poppins: "Poppins", sans-serif; 
+    --font-delius-unicase: "Delius Unicase", cursive; 
+    --color-blue: #559FFF;
+    --color-yellow: #FFE034;
+    --color-red: #F9452F;
+    --color-pink: #F95AB6;
+}
+
+@layer base {
+    html {
+        @apply text-white;
+        font-family: "DM Sans";
+    }
+    p {
+        @apply font-poppins;
+    }
+    span {
+        @apply font-poppins;
+        /* @apply font-delius-unicase; */
+    }
+    h1, h2 {
+        @apply font-bold ;
+    }
+    h3, h4 {
+        @apply font-semibold ;
+    }
+    h1 {
+        @apply text-2xl sm:text-4xl;
+    }
+
+    h2 {
+        @apply text-xl sm:text-2xl;
+    }
+
+    h3 {
+        @apply text-lg sm:text-xl;
+    }
+
+    h4 {
+        @apply text-base sm:text-lg;
+    }
+}
+
+html {
+    
+    scroll-behavior:smooth;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+body::-webkit-scrollbar {
+    width: 4px;  
+    height: 4px; 
+}
+
+body::-webkit-scrollbar-thumb {
+    border-radius: 5px; 
+    background-color: gray;
+}
+
+body:hover::-webkit-scrollbar {
+    width: 4px; 
+    height: 4px; 
+}
+
+.font-mono {
+    font-family: "Roboto Mono";
+}
+
+#home {
+    background: none !important;
+}
+
+

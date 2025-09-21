@@ -1,0 +1,60 @@
+{
+    "devs" : [
+        {
+            "name" : "Paul Regonia",
+            "role": ["CS 132", "Adviser"],
+            "description" : "Assistant Professor, Computer Vision and Machine Intelligence Lab, UP Diliman.",
+            "github" : "",
+            "linkedin" : "",
+            "img" : "https://i.ibb.co/vC4F8m8G/20211114-DSCF4757.jpg"
+        },
+        {
+            "name" : "Gavril Coronel",
+            "role": ["Developer"],
+            "description" : "Developer, gamer, and loves to sing. 🙂‍↕️",
+            "github" : "https://github.com/gbpursuit",
+            "linkedin" : "https://www.linkedin.com/in/gb-coronel/",
+            "img" : "https://media.licdn.com/dms/image/v2/D4D03AQGZ6E5Q29KyWg/profile-displayphoto-shrink_200_200/B4DZaeSSiMGcAY-/0/1746412317818?e=1754524800&v=beta&t=6q8sjePKQRNfRiI3oaz0yO5m7KDoC7ZxtkuPSbtHynA"
+        },
+        {
+            "name" : "Michael Omisol",
+            "role": ["Developer"],
+            "description" : "Developer, game dev, creative enthusiast. Also guy with 5+ projects despite being out of college.",
+            "github" : "https://flamingherb.github.io/",
+            "linkedin" : "https://www.linkedin.com/in/msbbomisol/",
+            "img" : "https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/436206073_7414002181987780_5078786925357060114_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=X3EWnDDbMMEQ7kNvwGh8R64&_nc_oc=Adn1axys3SrtwjcyfG-RDtw0j5ZBadxCCcUyoaTFRgHefBXaNKgkrdyJz_9WuAiCn04&_nc_zt=23&_nc_ht=scontent.fmnl9-4.fna&_nc_gid=nMOBEWEH5V-L9AtNpZV0lQ&oh=00_AfOQHqhssM5NvaLHqaBzYrom-Sq5tNiRmR2uVP9wBVGnXg&oe=684A0437"
+        },
+        {
+            "name" : "Jopeth Seda",
+            "role": ["Developer", "Designer"],
+            "description" : "A  frustrated volleyball player, and a frustrating developer-designer who loves bringing ideas into life.",
+            "github" : "https://github.com/pingu204",
+            "linkedin" : "https://www.linkedin.com/in/jopeth-bryan-seda/",
+            "img" : "https://media.licdn.com/dms/image/v2/D5603AQFY3cGcf7iq-w/profile-displayphoto-shrink_800_800/B56ZdLlhGCH8Ag-/0/1749319816178?e=1754524800&v=beta&t=uiiMMabCclOSJisQbiVi7mWE9k7Gcc8J4ptQkVvqQ3I"
+        },
+        {
+            "name" : "Emilio Tagudin",
+            "role": ["Contributor"],
+            "description" : "Aspiring developer and data analyst.",
+            "github" : "",
+            "linkedin" : "",
+            "img" : "https://i.postimg.cc/9Q7JTpDj/pic.jpg"
+        },
+        {
+            "name" : "Paul Abyado",
+            "role": ["Content Manager", "Designer"],
+            "description" : "Loves creating things that look good. Needs to sleep. (also interested in software and web development)",
+            "github" : "https://github.com/amabyado",
+            "linkedin" : "https://www.linkedin.com/in/adrianne-paul-abyado-2666a92a8/",
+            "img" : "https://i.ibb.co/VpLR4z4p/475980185-626462546453187-2963072903014934274-n.jpg"
+        },
+        {
+            "name" : "Jakin Bacalla",
+            "role": ["Content Manager"],
+            "description" : "Aspiring developer-deisgner who sings, codes, and always up for something sporty.",
+            "github" : "www.github.com/jeykmishlee",
+            "linkedin" : "www.linkedin.com/in/jcbacalla",
+            "img" : "https://i.ibb.co/qY9k6rxz/Unknown-58.jpg"
+        }
+    ]
+}
